@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ZainabMohamed700/ZainabMohamed700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eman Negm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
